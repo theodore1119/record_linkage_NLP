@@ -1,0 +1,1 @@
+This notebook illustrates how I use semantic search to perform deduplication of a synthetic dataset from [Ted Enamorado](https://www.tedenamorado.com). It employs sentence transformer (from hugging face) to convert text into numerical vector embeddings, allowing similarity search algorithms to identify and pair potential duplicates in the dataset.
